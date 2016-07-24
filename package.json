@@ -1,0 +1,24 @@
+{
+  "name": "webpackdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszgasior/webpackdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszgasior/webpackdemo/issues"
+  },
+  "homepage": "https://github.com/lukaszgasior/webpackdemo#readme",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "lodash": "^4.14.0",
+    "webpack": "^1.13.1"
+  }
+}
